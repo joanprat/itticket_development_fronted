@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+.btn {
+    font-weight: 700 !important;
+}
+.custom-btn-primary{
+    color: #FFFFFF !important;
+    background-color: #F86F03 !important;
+}
+
+.custom-btn-primary:hover{
+    color: #FFFFFF !important;
+    background-color: #e56402 !important;
+}
+
+.custom-btn-secondary{
+    color: #525FE1 !important;
+    background-color: #FFFFFF !important;
+}
